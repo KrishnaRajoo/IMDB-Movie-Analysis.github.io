@@ -60,4 +60,3 @@ The project uses **Jupyter Notebook** for interactive data analysis and visualiz
 * Apply **Machine Learning** to predict movie ratings based on features.
 
 
-👉 Would you like me to also generate a **`requirements.txt`** from your notebook so others can easily install the dependencies?
